@@ -35,7 +35,7 @@ Before you begin, ensure you have the following:
     ```
     Follow the instructions to authorize Wrangler with your Cloudflare account.
 5.  **A Telegram Bot Token:** Create a bot using Telegram's [BotFather](https://t.me/botfather). Follow the instructions BotFather gives you and **save the HTTP API token** securely. You will need it during the script execution.
-6.  **Your `otpauth://` URLs:** Export your 2FA accounts frohttps://github.com/dim13/otpauthm your authenticator app (e.g., Google Authenticator has an export feature). You need the raw `otpauth://...` URLs. Have these ready to copy and paste during the setup. (You may use [This repository](https://github.com/dim13/otpauth) to generate them from the generated QR codes from Google Authenticator)  
+6.  **Your `otpauth://` URLs:** Export your 2FA accounts frohttps://github.com/dim13/otpauthm your authenticator app (e.g., Google Authenticator has an export feature). You need the raw `otpauth://...` URLs. Have these ready to copy and paste during the setup. (You may use [this repository](https://github.com/dim13/otpauth) to generate them from the generated QR codes from Google Authenticator)  
 
 ## Installation and Setup
 
