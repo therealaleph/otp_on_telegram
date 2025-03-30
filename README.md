@@ -41,8 +41,8 @@ Before you begin, ensure you have the following:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/therealaleph/otp_on_telegram
+    cd otp_on_telegram
     ```
 2.  **Ensure Prerequisites:** Double-check that Node.js, npm, and Wrangler are installed and that you are logged in via `wrangler login`.
 3.  **Make the Deployment Script Executable:**
